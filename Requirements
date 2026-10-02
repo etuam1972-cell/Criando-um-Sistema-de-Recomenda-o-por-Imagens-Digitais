@@ -1,0 +1,10 @@
+🛠️ Tecnologias Utilizadas
+Linguagem: Python 3.8+
+
+Deep Learning / Framework: TensorFlow / Keras (ResNet50)
+
+Machine Learning / Indexação: scikit-learn (NearestNeighbors)
+
+Manipulação Vetorial e Imagens: NumPy, Pillow (PIL)
+
+Visualização: Matplotlib
